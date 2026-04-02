@@ -1,2 +1,2 @@
 # Grokking
-An ML project studying the Krokking phenomenon
+An ML project studying the Grokking phenomenon
